@@ -1,0 +1,16 @@
+.LoadMoreBtn{
+    width: 100%;
+    height: 60px;
+    background-color: rgb(15, 70, 87);
+    vertical-align: middle;
+    text-align: center;
+}
+.LoadMoreBtn h1{
+    padding-top:10px;
+    font-size: 30px;
+    font-family: 'Abel', sans-serif;
+    color: whitesmoke;
+}
+.LoadMoreBtn:hover {
+    cursor: pointer;
+}

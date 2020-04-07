@@ -1,0 +1,65 @@
+.tvinfo-title{
+    width: 100%;
+    height: 550px;
+    
+    background-position: center;
+    background-size: 100% 100% !important;
+    
+}
+
+.tvinfo-content {
+    border: 2px solid wheat;
+    border-radius: 0px 0px 50px 0px ;
+   height: 450px;
+   width: 75%;
+    position: relative;
+    margin: 0px auto;
+   top: 5%;
+   
+   /* position: relative;
+   top: 8%; */
+ 
+    background-color: rgba(35, 25,25, 0.9);
+
+}
+
+.left-rat{
+    width: 90;
+    float: left;
+    font-weight: bold;
+}
+.right-rat{
+    float: right;
+}
+.rating{
+    display: inline-block;
+    padding: 5px;
+
+}
+
+
+.tvinfo-thumb{
+    overflow: hidden;
+    float: left;
+    background-position: center;
+    background-size: 100% 100% !important;
+    width: 30%;
+    height: 450px;
+}
+
+
+
+
+.tvinfo-desc{
+    font-family: 'Abel', sans-serif;
+    color: whitesmoke;
+    position: relative;
+    left: 4%;
+    max-width: 800px;
+    padding-top: 30px;
+}
+.tvinfo-desc h1 {
+    font-size: 42px;
+    font-weight: bolder;
+}
+
